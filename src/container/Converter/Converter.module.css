@@ -1,0 +1,15 @@
+.converter {
+    background: #C1C1C1;
+    padding: 15px 0;
+}
+.converter__header {
+    text-align: center;
+}
+
+@media (min-width: 40rem) {
+    .converter {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+}

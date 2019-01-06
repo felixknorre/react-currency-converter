@@ -1,0 +1,15 @@
+.output {
+    background: white;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+@media (min-width: 40rem) {
+    .output {
+        display: inline-block;
+        width: 40%;
+        vertical-align: middle;
+        
+    }
+}
