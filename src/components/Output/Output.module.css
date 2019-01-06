@@ -3,6 +3,7 @@
     margin: 20px;
     padding: 10px;
     text-align: center;
+    border-radius: 3px;
 }
 
 @media (min-width: 40rem) {
