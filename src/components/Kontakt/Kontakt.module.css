@@ -1,0 +1,21 @@
+.header1 {
+text-align: center;
+}
+.header2 {
+    color: #003459;
+}
+.contactinfo {
+    margin: 25px 5px;
+}
+.contactinfo a{
+    color: #003459;
+    margin: 0 10px;
+} 
+@media (min-width: 40rem) {
+    .contactinfo {
+        text-align: center;
+    }
+    .header2 {
+        text-align: center;
+    }
+}
