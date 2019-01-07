@@ -1,0 +1,47 @@
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+    color: white;
+}
+.toolbar {
+    background: #003459;
+}
+.mobilenav {
+    position: fixed;
+    z-index: 101;
+    top: 0;
+    left: 0;
+    background: white;
+    width: 80%;
+    height: 100vh;
+}
+.mobilenav__items {
+    width: 90%;
+    height: 100%;
+    list-style: none;
+    margin: 10% auto;
+    padding: 0;
+    text-align: center;
+}
+.mobilenav__item {
+    margin: 1rem 0;
+    font-size: 40px;
+}
+.mobilenav__item a {
+    text-decoration: none;
+    color: black;
+}
+.mobilenav__item a:hover,
+.mobilenav__item a:active {
+    color: #c1c1c1;
+}
+.greybackground {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,0.5);
+}

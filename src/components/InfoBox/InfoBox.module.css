@@ -31,4 +31,12 @@
         max-width: 300px;
         min-width: 200px;
     }
+    .line {
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+    .box {
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+    }
 }
