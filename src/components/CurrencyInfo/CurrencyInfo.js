@@ -1,6 +1,8 @@
 import React from 'react';
-import InfoBox from '../InfoBox/InfoBox';
+
 import Styles from './CurrencyInfo.module.css';
+
+import InfoBox from '../InfoBox/InfoBox';
 
 const currencyinfo = () => {
     return (

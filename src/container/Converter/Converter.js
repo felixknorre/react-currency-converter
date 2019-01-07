@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 import axios from 'axios';
+
+import Styles from './Converter.module.css';
+
 import Input from '../../components/Input/Input';
 import Output from '../../components/Output/Output';
-import Styles from './Converter.module.css';
 
 const API_KEY ='8VWuzUwpmY9rGAGuDhntKtrw6YJsPZ3V';
 
