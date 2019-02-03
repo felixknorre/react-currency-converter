@@ -14,7 +14,7 @@ It's created with the JS library React.
 5. Have fun
 
 # What I Learned
-- Javascript Basics
+- JavaScript Basics
 - Build statefull/stateless components with react
 - use the react-router to dynamically render components 
 
