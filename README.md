@@ -7,8 +7,14 @@ It's created with the JS library React.
 
 # How to use
 
-1) Run "npm install" in the folder
-2) Run 'npm install --save react-router react-router-dom" in the folder
-3) Run "npm install --save axios" in the folder
-4) Run "npm start"
-5) Have fun
+1. Run "npm install" in the folder
+2. Run 'npm install --save react-router react-router-dom" in the folder
+3. Run "npm install --save axios" in the folder
+4. Run "npm start"
+5. Have fun
+
+# What I Learned
+- Javascript Basics
+- Build statefull/stateless components with reats
+- use the react-router to dynamically render components 
+
