@@ -15,6 +15,6 @@ It's created with the JS library React.
 
 # What I Learned
 - Javascript Basics
-- Build statefull/stateless components with reats
+- Build statefull/stateless components with react
 - use the react-router to dynamically render components 
 
